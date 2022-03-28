@@ -13,7 +13,7 @@ tags:
 
 ## 前言
 按照该教程流程你能免费搭建一个个人博客网站：markdown驱动、评论系统、标签系统、分页、个人介绍、网站浏览统计、搜索引擎收录。<br>
-使用github pages托管个人博客网站，不需要你学习jekkly相关知识，也不需要你了解编程技术，按照本博客简单的步骤就可以搭建自己的博客网站。你不需要从头使用jekkly创建项目，最简单的方式在github找到别人的博客网站比如[我的博客](https://github.com/heykb/heykb.github.io)，如果你喜欢他的主题，fork项目到自己的仓库，修改一些私人配置，网站就完成了。
+使用github pages托管个人博客网站，不需要你学习jekyll相关知识，也不需要你了解编程技术，按照本博客简单的步骤就可以搭建自己的博客网站。你不需要从头使用jekyll创建项目，最简单的方式在github找到别人的博客网站比如[我的博客](https://github.com/heykb/heykb.github.io)，如果你喜欢他的主题，fork项目到自己的仓库，修改一些私人配置，网站就完成了。
 
 
 ## 正文
@@ -24,7 +24,7 @@ username.github.io网站。
 ![](/img/2022-03-28-10-20-27.png)
 
 ### 配置_config.yml
-修改_config.yml文件，替换配置如用户名、自我介绍、邮箱等，总之将所有个人信息替换为你自己的。如果你想要本地调试，运行jekkly serve。你也许需要安装jekkly，参见官网安装教程。
+修改_config.yml文件，替换配置如用户名、自我介绍、邮箱等，总之将所有个人信息替换为你自己的。如果你想要本地调试，运行jekyll serve。你也许需要安装jekyll，参见官网安装教程。
 ~~~yml
 title: ZRC
 SEOTitle: 朱镕城的博客 | ZRC Blog
