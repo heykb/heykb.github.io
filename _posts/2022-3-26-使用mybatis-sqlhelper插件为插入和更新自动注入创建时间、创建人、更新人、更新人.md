@@ -116,7 +116,7 @@ public class UpdateTimeInjectColumnHandler implements InjectColumnInfoHandler {
     }
 
     @Override
-    public boolean isExistSkip() {
+    public boolean isExistOverride() {
         return true;
     }
 
@@ -139,7 +139,7 @@ public class UpdateTimeInjectColumnHandler implements InjectColumnInfoHandler {
  * ```getColumnName()```返回注入的字段名称
  * ```getValue()```返回注入的值，该值被原样注入到sql中，类似mybatis的${xx}
  * ```getInjectTypes()```返回注入的类型，可选的类型有```CONDITION|INSERT|UPDATE```，分别代表条件注入、插入列注入、更新列注入。这里updated_time需要插入列注入和更新列注入
- * ```isExistSkip()``` 返回true,当原本的sql中已存在该字段则跳过
+ * ```isExistOverride()``` 返回true,当update和insert注入时发现原本的sql中已存在该字段是就会覆盖原有的值，false则跳过
  * ```checkTableName(String tableName)``` 检查传入的tableName，返回false则不会进行注入
  * ```checkMapperId(String mapperId)``` 检查传入的mapperId，返回false则不会进行注入
 <br>
