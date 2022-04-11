@@ -22,17 +22,6 @@ tags:
   <dependency>
       <groupId>io.github.heykb</groupId>
       <artifactId>mybatis-sqlhelper-spring-boot-starter</artifactId>
-      <version>3.0.0</version>
-      <exclusions>
-          <exclusion>
-              <groupId>io.github.heykb</groupId>
-              <artifactId>mybatis-sqlHelper</artifactId>
-          </exclusion>
-      </exclusions>
-  </dependency>
-  <dependency>
-      <groupId>io.github.heykb</groupId>
-      <artifactId>mybatis-sqlHelper</artifactId>
       <version>3.0.0.SR1-SNAPSHOT</version>
   </dependency>
 
