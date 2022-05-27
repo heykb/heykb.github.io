@@ -71,6 +71,8 @@ ga_domain: auto
 
 ### 百度搜索
 和谷歌收录类似。[网址](https://ziyuan.baidu.com/https/index)
+### 解决百度收录无法收录github pages站点
+
 
 ### 添加站点地图sitemap
 站点地图sitemap是告诉搜索引擎推荐抓取的地址，可辅助搜索引擎更好的收录我们的博客。
