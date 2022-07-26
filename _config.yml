@@ -1,9 +1,9 @@
 # Site settings
-title: 统一祖国 振兴中华
+title: 朱镕城的博客
 SEOTitle: 朱镕城的博客 | ZRC Blog
 header-img: img/home-bg.jpg
 email: bigSheller08@gmail.com
-description: "（网站介绍）这是朱镕城的个人网站，目前处于测试状态，欢迎大家访问，一起交流学习."
+description: "（网站介绍）这是朱镕城的博客。不定期分享"
 keyword: "WP,ZRC,朱镕城，朱镕城的博客"
 url: "http://heykb.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
