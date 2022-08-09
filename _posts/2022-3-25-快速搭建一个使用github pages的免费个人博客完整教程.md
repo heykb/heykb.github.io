@@ -3,7 +3,7 @@ layout:     post
 title:      快速搭建一个使用github pages的免费个人博客完整教程 
 subtitle:   
 date:       2022-3-26
-author:     BY
+author:     zrc
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:

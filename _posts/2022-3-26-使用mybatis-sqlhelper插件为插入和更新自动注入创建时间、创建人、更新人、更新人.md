@@ -3,7 +3,7 @@ layout:     post
 title:      使用mybatis-sqlhelper插件为插入和更新sql,自动注入创建时间、创建人、更新人、更新时间
 subtitle:   使用mybatis-sqlhelper插件
 date:       2022-3-26
-author:     BY
+author:     zrc
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:

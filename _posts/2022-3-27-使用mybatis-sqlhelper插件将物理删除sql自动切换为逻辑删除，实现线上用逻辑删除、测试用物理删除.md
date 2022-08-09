@@ -3,7 +3,7 @@ layout:     post
 title:      使用mybatis-sqlhelper插件将物理删除sql自动切换为逻辑删除，实现线上用逻辑删除、测试用物理删除
 subtitle:   使用mybatis-sqlhelper插件
 date:       2022-3-26
-author:     BY
+author:     zrc
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
