@@ -39,7 +39,7 @@ github_repo: "https://github.com/heykb/heykb.github.io.git" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "饥饿知识分子，牛逼、牛逼、更牛逼。渴求观其面而知其所以然境界而不得，一人弱而集体强，故求知于open network。我们做朋友吧"
-sidebar-avatar: /img/avatar_binggan.jpg 
+sidebar-avatar: /img/zrc.jpg 
 ~~~
 
 ### 配置gitalk评论系统

@@ -48,7 +48,7 @@ h1, h2, span {
         position: fixed;
         text-align: center;
         width: 100%;
-        top: 140px;
+        top: 20%;
         font-size: 70px;
     }
 
@@ -56,7 +56,7 @@ h1, h2, span {
         position: fixed;
         text-align: center;
         width: 100%;
-        top: 50px;
+        top: 45%;
         font-size: 90px;
         background: -webkit-linear-gradient(90deg, #e9e6ff 0%, white 100%);
         -webkit-background-clip: text;
